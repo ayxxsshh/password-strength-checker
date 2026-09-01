@@ -6,9 +6,21 @@
 
 ## Install and run
 
+1. Clone the project:
+
 ```bash
 git clone https://github.com/ayxxsshh/password-strength-checker.git
+```
+
+2. Go into the project folder:
+
+```bash
 cd password-strength-checker
+```
+
+3. Run the program:
+
+```bash
 python3 password_strength_checker.py
 ```
 
